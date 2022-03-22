@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Minter/static/css/main.43830ced.chunk.css",
+    "main.js": "/Minter/static/js/main.1e6ab169.chunk.js",
+    "main.js.map": "/Minter/static/js/main.1e6ab169.chunk.js.map",
+    "runtime-main.js": "/Minter/static/js/runtime-main.9cd8bbe3.js",
+    "runtime-main.js.map": "/Minter/static/js/runtime-main.9cd8bbe3.js.map",
+    "static/js/2.39ec1c50.chunk.js": "/Minter/static/js/2.39ec1c50.chunk.js",
+    "static/js/2.39ec1c50.chunk.js.map": "/Minter/static/js/2.39ec1c50.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/Minter/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/Minter/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/Minter/index.html",
+    "static/css/main.43830ced.chunk.css.map": "/Minter/static/css/main.43830ced.chunk.css.map",
+    "static/js/2.39ec1c50.chunk.js.LICENSE.txt": "/Minter/static/js/2.39ec1c50.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/Minter/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cd8bbe3.js",
+    "static/js/2.39ec1c50.chunk.js",
+    "static/css/main.43830ced.chunk.css",
+    "static/js/main.1e6ab169.chunk.js"
+  ]
+}

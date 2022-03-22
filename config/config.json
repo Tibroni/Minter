@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x43f03663d3FA1D3b667AA587CFA3C5D8Ec60A060",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x43f03663d3FA1D3b667AA587CFA3C5D8Ec60A060",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Kid Goats",
+  "SYMBOL": "HOFK",
+  "MAX_SUPPLY": 4000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": false
+}
